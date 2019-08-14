@@ -3,6 +3,7 @@
 
  Make-A-Meal app was created to fill the need of a local nutritionist agency who was interested in giving their clients an easy way to create healthy meals. From thinking up ideas, to making shopping lists then cooking meals and compiling nutrition information, this one simple app has it all. It’s mobile friendly so you can have in the palm of your hand or on your counter top.
 
+# Make-A-Meal Deployed on Heroku: https://mysterious-ridge-12152.herokuapp.com/
 
 ## Getting Started
 
@@ -10,32 +11,37 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.	Create Directory and Clone Reposatory from GitHub
 2.	Create React file structure in Directory
-            a.	my-app/
-            b.	  README.md
-            c.	  node_modules/
-            d.	  package.json
-            e.	  public/
-            f.	    index.html
-            g.	    favicon.ico
-            h.	  src/
-            i.	    App.css
-            j.	    App.js
-            k.	    App.test.js
-            l.	    index.css
-            m.	    index.js
-            n.	    logo.svg
+            1.	my-app/
+            2.	  README.md
+            3.	  node_modules/
+            4.	  package.json
+            5.	  public/
+            6.	    index.html
+            7.	    favicon.ico
+            8.	  src/
+            9.	    App.css
+            10.	    App.js
+            11.	    App.test.js
+            12.	    index.css
+            13.	    index.js
+            14.	    logo.svg
 
 For the project to build, these files must exist with exact filenames:
-            •	public/index.html is the page template;
-            •	src/index.js is the JavaScript entry point.
+            1.	public/index.html is the page template;
+            2.	src/index.js is the JavaScript entry point.
+
 You can delete or rename the other files.
+
 You may create subdirectories inside src. For faster rebuilds, only files inside src are processed.
+
 You need to put any JS and CSS files inside src, otherwise you won’t see them.
+
 Only files inside public can be used from public/index.html.
+
 Read instructions below for using assets from JavaScript and HTML.
+
 You can, however, create more top-level directories.
 They will not be included in the production build so you can use them for things like documentation.
-
 
 
 ### Prerequisites
